@@ -69,7 +69,7 @@ def main():
         "diploma", "license", "certification", "microsoft office", "powerpoint", "windows",
         "leadership", "associate's", "mentoring", "teaching", 'product management', 'microsoft'
         , 'microsoft word', 'powershell', "driver's", 'snowflake', 'pki', 'journalism', 'transcription'
-        , 'grammar experience', 'high school  or ged', 'copywriting'
+        , 'grammar experience', 'high school  or ged', 'copywriting', 'host/hostess experience', 'go', "growing experience", 'english', 'writing skills'
     }
 
     # Use the same exclusion pattern as in count_skills
