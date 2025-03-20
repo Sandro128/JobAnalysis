@@ -125,20 +125,11 @@ On the test data, Model-2 achieved an **R² = 0.2028**, indicating that while th
 In this analysis, the **Random Forest Regressor** was used to identify the importance of each skill in predicting salary. The model calculates feature importance by assessing how much each skill contributes to reducing the variance in the target variable (Salary). The feature importance is derived from the average decrease in impurity (Gini or entropy) for each skill across all decision trees in the forest. Higher importance values indicate that the skill is more influential in the salary prediction. The **Top 10 skills** were selected based on their relative importance as determined by the model.
 
 ### 7.2. Identified Important Skills for 5 Job Roles
-The top 10 most important skills across all job categories (Software Engineering, Data Science, and AI/ML) are as follows:
+The top 5 most important skills across all job categories (Software Engineering, Data Science, and AI/ML) are as follows:
+![image](https://github.com/user-attachments/assets/69219ac8-0713-41d7-82b2-37458814b53d)
+![image](https://github.com/user-attachments/assets/f209ee04-0fb8-4af1-b0b6-78d58a0975d5)
+![image](https://github.com/user-attachments/assets/67283da9-772f-4c59-af69-81098cc435e9)
 
-| Feature                       | Importance |
-|-------------------------------|------------|
-| english                       | 0.082872   |
-| c++                            | 0.081152   |
-| reinforcement learning         | 0.051218   |
-| research                       | 0.027686   |
-| computer science               | 0.023481   |
-| deep learning                  | 0.015912   |
-| machine learning               | 0.014613   |
-| distributed computing          | 0.012463   |
-| communication skills           | 0.012351   |
-| natural language processing    | 0.011647   |
 
 These skills were found to be the most influential in predicting the salaries for the given job categories, with "english" and "c++" being the top contributors.
 
