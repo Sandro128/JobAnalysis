@@ -131,7 +131,7 @@ The top 5 most important skills across all job categories (Software Engineering,
 ![image](https://github.com/user-attachments/assets/67283da9-772f-4c59-af69-81098cc435e9)
 
 
-These skills were found to be the most influential in predicting the salaries for the given job categories, with "english" and "c++" being the top contributors.
+These skills were found to be the most influential in predicting the salaries for the given job categories.
 
 ## 8. Visualization
 
